@@ -14,7 +14,6 @@ This project facilitates decentralized image upload and sharing on the blockchai
 - **React:** Front-end interface for uploading images and managing access.
 - **IPFS:** Decentralized storage protocol for hosting uploaded images.
 
-## Usage
 
 ### Installation
 
